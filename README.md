@@ -7,6 +7,7 @@ To run this application, simply follow the following instruction:
 2. `cd` into the cloned folder
 3. Run `npm install` to install all the dependencies
 4. Once everything had been installed, run `npm run dev`
+5. The application can then be opened in a web browser at `http://localhost:5000`
 
 You will need Node.js (+ npm) to run the command above.
 
